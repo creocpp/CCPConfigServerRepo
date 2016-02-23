@@ -1,8 +1,0 @@
-server:
-  port: 7676
-
-info:
-  component: Mongo DB Service
-
-mongodb:
-   client: 130.21.184.220
